@@ -1,10 +1,6 @@
-# 👨🏻‍💻 Giovanni Cabral
-
-**`Estudante de Engenharia da Computação | Aspirante a Desenvolvedor Back-End`**
-
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Tecnologias
 
 <img 
     align="left" 
@@ -60,39 +56,10 @@
 
 ---
 
-### 📂 Projetos em Destaque
-
-- [pong-game](https://github.com/GiovanniCabralO/pong-game) 🎮 — Jogo Pong feito em Python  
-- [snake-game](https://github.com/GiovanniCabralO/snake-game) 🐍 — Jogo da cobrinha  
-- [us-states-game](https://github.com/GiovanniCabralO/us-states-game) 🗺️ — Jogo de estados dos EUA  
-- [mile-to-km-converter](https://github.com/GiovanniCabralO/mile-to-km-converter) 📏 — Conversor de milhas para quilômetros  
-
----
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GiovanniCabralO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-      align="left" 
-      alt="Top Languages" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniCabralO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
----
-
 ### 📫 Contato
 
-- 📧 Email: **seuemail@exemplo.com**  
-- 💼 LinkedIn: [linkedin.com/in/seuusuario](https://www.linkedin.com/in/seuusuario)  
+- 📧 Email: **giovannicabraloli@gmail.com**  
+- 💼 LinkedIn: [[linkedin.com/in/seuusuario](https://www.linkedin.com/in/giovannicabraldeoliveira/)
 - 📂 Portfólio: [github.com/GiovanniCabralO](https://github.com/GiovanniCabralO)  
 
+---
