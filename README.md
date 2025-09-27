@@ -1,35 +1,36 @@
-# 👨🏻‍💻 Giovanni Cabral
+# 👨🏻‍💻 Giovanni Cabral  
 
 **`Estudante de Engenharia da Computação`**
 
 ---
 
-### 🤖 Tecnologias
+## 🛠️ Tecnologias  
 
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-
-<br/>
-<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
 ---
 
-### 📂 Projetos em Destaque
+## 🚀 Projetos em Destaque  
 
-- [pong-game](https://github.com/GiovanniCabralO/pong-game) 🎮 — Jogo Pong feito em Python  
-- [snake-game](https://github.com/GiovanniCabralO/snake-game) 🐍 — Jogo da Cobrinha  
-- [us-states-game](https://github.com/GiovanniCabralO/us-states-game) 🗺️ — Jogo de estados dos EUA  
-- [mile-to-km-converter](https://github.com/GiovanniCabralO/mile-to-km-converter) 📏 — Conversor de milhas para quilômetros  
+| Projeto | Descrição |
+|---------|-----------|
+| [pong-game](https://github.com/GiovanniCabralO/pong-game) 🕹️ | Jogo Pong feito em Python |
+| [snake-game](https://github.com/GiovanniCabralO/snake-game) 🐍 | Jogo da Cobrinha |
+| [us-states-game](https://github.com/GiovanniCabralO/us-states-game) 🗺️ | Jogo de estados dos EUA |
+| [mile-to-km-converter](https://github.com/GiovanniCabralO/mile-to-km-converter) 📏 | Conversor de milhas para quilômetros |
 
 ---
 
-### 📫 Contato
+## 📫 Contato  
 
-- 📧 Email: **giovannicabraloli@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/giovannicabraldeoliveira](https://www.linkedin.com/in/giovannicabraldeoliveira/)  
-- 📂 Portfólio: [github.com/GiovanniCabralO](https://github.com/GiovanniCabralO)  
+| | |
+|---|---|
+| ✉️ **Email** | [giovannicabraloli@gmail.com](mailto:giovannicabraloli@gmail.com) |
+| 🔗 **LinkedIn** | [linkedin.com/in/giovannicabraldeoliveira](https://www.linkedin.com/in/giovannicabraldeoliveira/) |
+| 📂 **Portfólio** | [github.com/GiovanniCabralO](https://github.com/GiovanniCabralO) |
 
+---
