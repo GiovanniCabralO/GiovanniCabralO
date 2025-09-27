@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Giovanni Cabral
 
-**`Estudante de Engenharia da Computação | Aspirante a Desenvolvedor Back-End`**
+**`Estudante de Engenharia da Computação`**
 
 ---
 
