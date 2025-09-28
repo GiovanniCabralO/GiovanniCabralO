@@ -25,7 +25,7 @@
 | [pong-game](https://github.com/GiovanniCabralO/pong-game) 🕹️ | Jogo Pong feito em Python |
 | [snake-game](https://github.com/GiovanniCabralO/snake-game) 🐍 | Jogo da Cobrinha |
 | [us-states-game](https://github.com/GiovanniCabralO/us-states-game) 🗺️ | Jogo de estados dos EUA |
-| [mile-to-km-converter](https://github.com/GiovanniCabralO/mile-to-km-converter) 📏 | Conversor de milhas para quilômetros |
+| [pomodoro-timer](https://github.com/GiovanniCabralO/pomodoro-timer) 📏 | Pomodoro Timer com música e alertas sonoros |
 
 ---
 
