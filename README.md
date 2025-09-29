@@ -22,7 +22,7 @@
 
 | Projeto | Descrição |
 |---------|-----------|
-| [pong-game](https://github.com/GiovanniCabralO/pong-game) 🕹️ | Jogo Pong feito em Python |
+| [password-manager](https://github.com/GiovanniCabralO/password-manager) 🔐 | Gerenciador de Senhas com Tkinter |
 | [snake-game](https://github.com/GiovanniCabralO/snake-game) 🐍 | Jogo da Cobrinha |
 | [us-states-game](https://github.com/GiovanniCabralO/us-states-game) 🗺️ | Jogo de estados dos EUA |
 | [pomodoro-timer](https://github.com/GiovanniCabralO/pomodoro-timer) ⏰ | Pomodoro Timer com música e alertas sonoros |
