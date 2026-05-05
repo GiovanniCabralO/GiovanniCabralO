@@ -23,10 +23,10 @@
 
 | Projeto | Descrição |
 |---------|-----------|
-| [task-manager-sqlite](https://github.com/GiovanniCabralO/task-manager-sqlite) 🗂️ | Gerenciador de Tarefas com Banco de Dados Relacional |
-| [password-manager](https://github.com/GiovanniCabralO/password-manager) 🔐 | Gerenciador de Senhas Seguro com Interface Gráfica |
-| [pomodoro-timer](https://github.com/GiovanniCabralO/pomodoro-timer) ⏰ | App de Produtividade com Alertas Sonoros |
-| [snake-game](https://github.com/GiovanniCabralO/snake-game) 🐍 | Recriação Clássica com Lógica de Orientação a Objetos |
+| [task-manager-sqlite](https://github.com/GiovanniCabralO/task-manager-sqlite) 🗂️ | Gerenciador de Tarefas com Banco de Dados Relacional (SQLite3 + Tkinter) |
+| [minerva](https://github.com/Web-Design-Semestre2/minerva) 🏛️ | Projeto de Web Design focado em UI/UX, Responsividade e Semântica HTML/CSS |
+| [password-manager](https://github.com/GiovanniCabralO/password-manager) 🔐 | Gerenciador de Senhas Seguro com Interface Gráfica (Python/Tkinter) |
+| [pomodoro-timer](https://github.com/GiovanniCabralO/pomodoro-timer) ⏰ | App de Produtividade com Alertas Sonoros e Gestão de Tempo |
 
 ---
 
