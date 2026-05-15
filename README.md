@@ -1,6 +1,6 @@
-# 👨🏻‍💻 Giovanni Cabral  
+# 👨🏻‍💻 Giovanni Cabral
 
-**`Estudante de Engenharia da Computação`**
+**`Estudante de Engenharia da Computação · Estagiário na Huawei Technologies (via Facens)`**
 
 ---
 
@@ -19,18 +19,18 @@
 
 ---
 
-## 🚀 Projetos em Destaque  
+## 🚀 Projetos em Destaque
 
 | Projeto | Descrição |
 |---------|-----------|
-| [task-manager-sqlite](https://github.com/GiovanniCabralO/task-manager-sqlite) 🗂️ | Gerenciador de Tarefas com Banco de Dados Relacional (SQLite3 + Tkinter) |
+| [python-sqlite-mini-erp](https://github.com/GiovanniCabralO/python-sqlite-mini-erp) 🏪 | Mini ERP com Flask, SQLite puro (sem ORM), triggers, views e deploy no PythonAnywhere |
 | [minerva](https://github.com/Web-Design-Semestre2/minerva) 🏛️ | Projeto de Web Design focado em UI/UX, Responsividade e Semântica HTML/CSS |
 | [password-manager](https://github.com/GiovanniCabralO/password-manager) 🔐 | Gerenciador de Senhas Seguro com Interface Gráfica (Python/Tkinter) |
 | [pomodoro-timer](https://github.com/GiovanniCabralO/pomodoro-timer) ⏰ | App de Produtividade com Alertas Sonoros e Gestão de Tempo |
 
 ---
 
-## 📫 Contato  
+## 📫 Contato
 
 | | |
 |---|---|
